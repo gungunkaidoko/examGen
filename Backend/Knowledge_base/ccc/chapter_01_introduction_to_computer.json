@@ -1,0 +1,59 @@
+{
+  "course": "CCC",
+  "chapter": "Introduction to Computer",
+  "summary": "Introduction to computers, IT gadgets, hardware, software, memory, storage, and their practical applications.",
+  "topics": [
+    {
+      "topic": "Evolution of Computers and its Applications",
+      "notes": "Evolution of computers from early mechanical devices to modern computing systems and their applications in various domains."
+    },
+    {
+      "topic": "IT Gadgets and their Applications",
+      "notes": "Modern IT gadgets such as smartphones, tablets, laptops, smartwatches, and their practical uses."
+    },
+    {
+      "topic": "Hardware",
+      "notes": "Physical components of a computer system including processing, input, output, memory, and storage devices."
+    },
+    {
+      "topic": "Central Processing Unit (CPU)",
+      "notes": "The main processing unit responsible for executing instructions and controlling system operations."
+    },
+    {
+      "topic": "Input Devices",
+      "notes": "Devices used to enter data into a computer such as keyboard, mouse, scanner, microphone, and webcam."
+    },
+    {
+      "topic": "Output Devices",
+      "notes": "Devices used to present processed information such as monitor, printer, speakers, and projector."
+    },
+    {
+      "topic": "Computer Memory and Storage",
+      "notes": "Temporary and permanent storage mechanisms including RAM, ROM, HDD, SSD, and external storage devices."
+    },
+    {
+      "topic": "Software",
+      "notes": "Programs and instructions that enable a computer to perform specific tasks."
+    },
+    {
+      "topic": "Application Software",
+      "notes": "Software developed for end-user tasks such as word processing, spreadsheets, presentations, and web browsing."
+    },
+    {
+      "topic": "System Software",
+      "notes": "Software that manages hardware resources and provides a platform for application software, including operating systems."
+    },
+    {
+      "topic": "Utility Software",
+      "notes": "Software used for maintenance, security, backup, optimization, and troubleshooting."
+    },
+    {
+      "topic": "Open Source and Proprietary Software",
+      "notes": "Different software licensing models including freely modifiable open-source software and vendor-controlled proprietary software."
+    },
+    {
+      "topic": "Mobile Apps",
+      "notes": "Applications designed for smartphones and tablets for communication, productivity, learning, banking, and entertainment."
+    }
+  ]
+}

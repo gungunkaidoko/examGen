@@ -1,0 +1,83 @@
+{
+  "course": "CCC",
+  "chapter": "Presentation",
+  "summary": "Introduction to presentation software concepts, creating and managing slides, inserting objects, manipulating slides, running slide shows, applying transitions, aesthetics, and printing handouts.",
+  "topics": [
+    {
+      "topic": "Creating a Presentation Using a Template",
+      "notes": "Using pre-designed templates in LibreOffice Impress or similar tools to quickly create a professional-looking presentation with consistent layouts, colors, and fonts."
+    },
+    {
+      "topic": "Creating a Blank Presentation",
+      "notes": "Starting a new presentation from scratch with an empty slide, allowing full customization of layout, design, and content."
+    },
+    {
+      "topic": "Inserting and Editing Text on Slides",
+      "notes": "Adding text to slides by clicking text placeholders or inserting text boxes, and editing the content with formatting options such as font, size, color, and alignment."
+    },
+    {
+      "topic": "Inserting and Deleting Slides in a Presentation",
+      "notes": "Adding new slides at any position in the presentation and removing unwanted slides using the slide panel or the Insert and Delete menu options."
+    },
+    {
+      "topic": "Saving a Presentation",
+      "notes": "Saving a presentation file using Ctrl+S in native format (.odp or .pptx), or exporting it as PDF or other formats for sharing and distribution."
+    },
+    {
+      "topic": "Inserting Table",
+      "notes": "Adding a table to a slide to display structured data in rows and columns, with options to format borders, shading, and cell content."
+    },
+    {
+      "topic": "Adding ClipArt Pictures",
+      "notes": "Inserting clip art images or pictures from the built-in gallery or external sources to enhance slide visual appeal."
+    },
+    {
+      "topic": "Inserting Other Objects",
+      "notes": "Embedding other objects into slides such as charts, audio clips, video files, OLE objects, and hyperlinks to enrich presentation content."
+    },
+    {
+      "topic": "Resizing and Scaling an Object",
+      "notes": "Adjusting the size of images, shapes, or other objects on a slide by dragging handles or setting precise dimensions, with aspect ratio lock to maintain proportions."
+    },
+    {
+      "topic": "Creating and Using Master Slide",
+      "notes": "The Master Slide defines the common layout, background, fonts, and design elements shared across all slides in a presentation, ensuring a consistent look and feel."
+    },
+    {
+      "topic": "Choosing a Set Up for Presentation",
+      "notes": "Configuring presentation settings such as slide size, display mode (full screen, window), and presenter view options before running a slide show."
+    },
+    {
+      "topic": "Running a Slide Show",
+      "notes": "Starting a presentation in full-screen slide show mode from the beginning (F5) or from the current slide (Shift+F5), advancing slides manually or automatically."
+    },
+    {
+      "topic": "Transition and Slide Timings",
+      "notes": "Applying visual transition effects (such as fade, wipe, or fly-in) between slides and setting the duration each slide is displayed before advancing automatically."
+    },
+    {
+      "topic": "Automating a Slide Show",
+      "notes": "Setting up a presentation to run automatically with predefined timings and transitions without manual intervention, useful for kiosks and displays."
+    },
+    {
+      "topic": "Enhancing Text Presentation",
+      "notes": "Improving slide text appearance using animations, font formatting, text effects, shadows, and consistent styling to make content more engaging."
+    },
+    {
+      "topic": "Working with Color and Line Style",
+      "notes": "Applying colors to shapes, backgrounds, text, and borders, and customizing line styles (solid, dashed, dotted) and thickness for drawing objects on slides."
+    },
+    {
+      "topic": "Adding Movie and Sound",
+      "notes": "Inserting audio and video files into slides to create multimedia presentations, with options to control playback automatically or on click."
+    },
+    {
+      "topic": "Adding Headers, Footers and Notes",
+      "notes": "Inserting header and footer text (such as date, slide number, or custom text) on slides and handouts, and adding speaker notes in the notes panel for presenter reference."
+    },
+    {
+      "topic": "Printing Slides and Handouts",
+      "notes": "Printing a presentation in different formats: full-page slides, handouts (multiple slides per page), notes pages, or outline view, with options for color or grayscale printing."
+    }
+  ]
+}

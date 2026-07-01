@@ -1,0 +1,55 @@
+{
+  "course": "CCC",
+  "chapter": "Overview of Futureskills and Cyber Security",
+  "summary": "Introduction to emerging technologies in IECT including IoT, Big Data Analytics, Cloud Computing, Virtual Reality, Artificial Intelligence, Social and Mobile technologies, Blockchain, 3D Printing, and Robotics Process Automation, along with fundamentals of Cyber Security.",
+  "topics": [
+    {
+      "topic": "Internet of Things (IoT)",
+      "notes": "IoT refers to the network of physical devices embedded with sensors, software, and connectivity to collect and exchange data over the Internet. Examples include smart home devices, wearables, connected vehicles, and industrial sensors."
+    },
+    {
+      "topic": "Big Data Analytics",
+      "notes": "Big Data refers to extremely large datasets that cannot be processed by traditional tools. Big Data Analytics involves examining these datasets to uncover patterns, trends, and insights for decision-making in business, healthcare, and government."
+    },
+    {
+      "topic": "Cloud Computing",
+      "notes": "Cloud Computing delivers computing services such as storage, servers, databases, networking, and software over the Internet (the cloud) on a pay-as-you-go basis. Key service models are IaaS, PaaS, and SaaS, with providers like AWS, Azure, and Google Cloud."
+    },
+    {
+      "topic": "Virtual Reality",
+      "notes": "Virtual Reality (VR) is an immersive technology that creates a simulated three-dimensional environment experienced through a VR headset. It is used in gaming, training simulations, education, healthcare, and virtual tours."
+    },
+    {
+      "topic": "Artificial Intelligence",
+      "notes": "Artificial Intelligence (AI) enables machines to simulate human intelligence including learning, reasoning, problem-solving, and decision-making. Applications include voice assistants (Siri, Alexa), image recognition, chatbots, and autonomous vehicles."
+    },
+    {
+      "topic": "Social and Mobile",
+      "notes": "Social and mobile technologies encompass social media platforms and mobile applications that have transformed communication, commerce, and information sharing. They are driving digital inclusion and mobile-first service delivery."
+    },
+    {
+      "topic": "Blockchain Technology",
+      "notes": "Blockchain is a distributed, decentralized digital ledger that records transactions across a network of computers in a tamper-proof manner. It is the foundation of cryptocurrencies and is used in supply chain management, smart contracts, and secure voting systems."
+    },
+    {
+      "topic": "3D Printing / Additive Manufacturing",
+      "notes": "3D Printing creates three-dimensional physical objects layer by layer from digital models. It is used in manufacturing, healthcare (prosthetics, implants), construction, aerospace, and education for rapid prototyping and custom production."
+    },
+    {
+      "topic": "Robotics Process Automation",
+      "notes": "Robotics Process Automation (RPA) uses software robots to automate repetitive, rule-based digital tasks such as data entry, form filling, and report generation, improving efficiency and reducing human error in business processes."
+    },
+    {
+      "topic": "Need of Cyber Security",
+      "notes": "Cyber Security protects computer systems, networks, and data from unauthorized access, cyberattacks, data breaches, and damage. It is essential to safeguard personal information, financial data, and critical infrastructure from threats like malware, phishing, and hacking."
+    },
+    {
+      "topic": "Securing PC",
+      "notes": "Measures to secure a personal computer include installing and updating antivirus software, enabling a firewall, applying OS and software updates, using strong passwords, avoiding untrusted downloads, and regular data backups."
+    },
+    {
+      "topic": "Securing Smart Phone",
+      "notes": "Smartphone security practices include setting a strong PIN or biometric lock, keeping the OS and apps updated, installing apps only from trusted sources (Play Store/App Store), enabling remote wipe, avoiding public Wi-Fi for sensitive transactions, and being cautious of phishing messages."
+    }
+  ]
+}

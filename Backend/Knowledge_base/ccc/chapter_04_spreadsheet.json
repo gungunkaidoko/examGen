@@ -1,0 +1,83 @@
+{
+  "course": "CCC",
+  "chapter": "Spreadsheet",
+  "summary": "Introduction to spreadsheet concepts, working with LibreOffice Calc, cell addressing, data entry, formatting, manipulation, formulas, functions, charts, sorting, filtering, and freezing panes.",
+  "topics": [
+    {
+      "topic": "Creating Spread Sheet",
+      "notes": "Steps to create a new spreadsheet document in LibreOffice Calc or similar applications, including launching the application and opening a blank workbook."
+    },
+    {
+      "topic": "Concept of Cell Address, Row and Column, and Selecting a Cell",
+      "notes": "A spreadsheet is organized into rows (numbered) and columns (lettered). Each cell is identified by a unique cell address combining column letter and row number (e.g., A1, B3). Cells can be selected individually or as a range."
+    },
+    {
+      "topic": "Entering Data in Cells",
+      "notes": "Entering different types of data into spreadsheet cells including text (labels), numbers, and dates. Data entry is confirmed with Enter or Tab key."
+    },
+    {
+      "topic": "Page Setup",
+      "notes": "Configuring spreadsheet print settings such as paper size, orientation (portrait/landscape), margins, and print area before printing a sheet."
+    },
+    {
+      "topic": "Printing of Sheet",
+      "notes": "Sending a spreadsheet to a printer with options to print the active sheet, selected cells, or the entire workbook, including setting print range and scaling."
+    },
+    {
+      "topic": "Saving Spreadsheet",
+      "notes": "Saving a spreadsheet using Ctrl+S in its native format (.ods or .xlsx) or exporting it to other formats such as PDF or CSV."
+    },
+    {
+      "topic": "Opening and Closing",
+      "notes": "Opening an existing spreadsheet file using Ctrl+O or the File menu, and closing the current document using Ctrl+W or File > Close."
+    },
+    {
+      "topic": "Modifying and Editing Cell Content",
+      "notes": "Editing data already entered in a cell by clicking the cell and modifying content in the formula bar, or double-clicking the cell to edit inline."
+    },
+    {
+      "topic": "Formatting Cell (Font, Alignment, Style)",
+      "notes": "Applying text formatting to cells including font type, size, color, bold, italic, underline, and setting horizontal or vertical alignment of content within cells."
+    },
+    {
+      "topic": "Cut, Copy, Paste and Paste Special",
+      "notes": "Moving (Cut: Ctrl+X) or duplicating (Copy: Ctrl+C) cell content and pasting it (Ctrl+V) to another location. Paste Special (Ctrl+Shift+V) allows selective pasting of values, formats, or formulas only."
+    },
+    {
+      "topic": "Changing Cell Height and Width",
+      "notes": "Adjusting the row height and column width by dragging borders or using the Format menu to set precise measurements for better data display."
+    },
+    {
+      "topic": "Inserting and Deleting Rows and Columns",
+      "notes": "Adding new rows or columns at a specified position, or removing existing ones to reorganize spreadsheet data using the Insert and Delete options."
+    },
+    {
+      "topic": "AutoFill",
+      "notes": "Using the AutoFill handle (small square at cell corner) to automatically extend a series of data such as numbers, dates, days, or months across adjacent cells."
+    },
+    {
+      "topic": "Sorting and Filtering",
+      "notes": "Sorting rearranges data in ascending or descending order based on one or more columns. Filtering displays only rows that meet specified criteria, hiding others temporarily."
+    },
+    {
+      "topic": "Freezing Panes",
+      "notes": "Locking specific rows or columns (e.g., headers) so they remain visible while scrolling through large spreadsheets using the View > Freeze Rows and Columns option."
+    },
+    {
+      "topic": "Using Formulas for Numbers (Addition, Subtraction, Multiplication and Division)",
+      "notes": "Writing arithmetic formulas in cells starting with '=' to perform calculations: addition (+), subtraction (-), multiplication (*), and division (/)."
+    },
+    {
+      "topic": "AutoSum",
+      "notes": "A quick tool (Alt+=) that automatically inserts a SUM formula to add up a range of adjacent cells in a row or column."
+    },
+    {
+      "topic": "Functions (SUM, COUNT, MAX, MIN, AVERAGE)",
+      "notes": "Built-in spreadsheet functions: SUM adds a range of values, COUNT counts numeric entries, MAX returns the largest value, MIN returns the smallest value, and AVERAGE calculates the mean of a range."
+    },
+    {
+      "topic": "Charts (Bar, Pie, Line)",
+      "notes": "Creating visual representations of spreadsheet data using chart types: Bar charts compare categories, Pie charts show proportions of a whole, and Line charts display trends over time."
+    }
+  ]
+}

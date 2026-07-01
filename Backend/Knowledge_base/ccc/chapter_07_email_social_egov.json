@@ -1,0 +1,75 @@
+{
+  "course": "CCC",
+  "chapter": "Email, Social Networking and e-Governance Services",
+  "summary": "Introduction to email structure, using email accounts, social networking platforms, instant messaging, blogs, e-commerce, e-governance services, digital locker, and the UMANG app.",
+  "topics": [
+    {
+      "topic": "Structure of E-mail",
+      "notes": "An email consists of key components: To (recipient address), CC (carbon copy), BCC (blind carbon copy), Subject (brief description), Body (main message content), and Attachments (files sent along with the email)."
+    },
+    {
+      "topic": "Opening Email Account",
+      "notes": "Creating and accessing an email account on services like Gmail, Yahoo Mail, or Outlook by registering with a username, password, and personal details."
+    },
+    {
+      "topic": "Mailbox: Inbox and Outbox",
+      "notes": "The Inbox stores received emails while the Outbox temporarily holds emails being sent. Other folders include Sent Mail, Drafts, Spam, and Trash for organizing messages."
+    },
+    {
+      "topic": "Creating and Sending a New E-mail",
+      "notes": "Composing a new email by entering the recipient's address, subject, and message body, then clicking Send to deliver it via the email server."
+    },
+    {
+      "topic": "Replying to an E-mail Message",
+      "notes": "Responding to a received email using Reply (to the sender only) or Reply All (to all recipients) while retaining the original message thread for context."
+    },
+    {
+      "topic": "Forwarding an E-mail Message",
+      "notes": "Sending a received email to another recipient by using the Forward option, which allows adding a new message before forwarding the original content."
+    },
+    {
+      "topic": "Searching Emails",
+      "notes": "Finding specific emails in a mailbox using the search bar by entering keywords from the sender, subject, or message body to quickly locate relevant messages."
+    },
+    {
+      "topic": "Attaching Files with Email",
+      "notes": "Adding files such as documents, images, or PDFs to an email using the Attach option before sending, allowing the recipient to download the files."
+    },
+    {
+      "topic": "Email Signature",
+      "notes": "A predefined block of text automatically appended to outgoing emails, typically containing the sender's name, designation, contact details, and organization."
+    },
+    {
+      "topic": "Facebook, Twitter, LinkedIn, Instagram",
+      "notes": "Popular social networking platforms: Facebook for connecting with friends and family, Twitter for microblogging and news, LinkedIn for professional networking, and Instagram for photo and video sharing."
+    },
+    {
+      "topic": "Instant Messaging (WhatsApp, Facebook Messenger, Telegram)",
+      "notes": "Real-time text, voice, and video communication applications. WhatsApp, Facebook Messenger, and Telegram allow users to send messages, share media, and make calls over the internet."
+    },
+    {
+      "topic": "Introduction to Blogs",
+      "notes": "A blog is a regularly updated online journal or informational website where individuals or organizations publish articles (posts) on various topics, allowing readers to comment and engage."
+    },
+    {
+      "topic": "Basics of E-commerce",
+      "notes": "E-commerce refers to buying and selling goods and services over the Internet. It includes B2C (business to consumer), B2B (business to business), and C2C models, with platforms like Amazon, Flipkart, and eBay."
+    },
+    {
+      "topic": "Netiquettes",
+      "notes": "Netiquette refers to the accepted rules of polite and appropriate behavior when communicating online, including being respectful, avoiding spam, not sharing misinformation, and protecting others' privacy."
+    },
+    {
+      "topic": "Overview of e-Governance Services (Railway Reservation, Passport, eHospital, ORS)",
+      "notes": "e-Governance services use ICT to deliver government services online. Key examples include IRCTC for railway reservations, Passport Seva for passport applications, eHospital for hospital appointments, and ORS (Online Registration System) for patient registration."
+    },
+    {
+      "topic": "Accessing e-Governance Services on Mobile Using UMANG APP",
+      "notes": "UMANG (Unified Mobile Application for New-age Governance) is a single platform mobile app that provides access to over 1,200 central and state government services including PF, Aadhaar, EPFO, and DigiLocker."
+    },
+    {
+      "topic": "Digital Locker",
+      "notes": "DigiLocker is a Government of India initiative that provides citizens a secure cloud-based platform to store, access, and share official documents digitally, reducing the need for physical documents."
+    }
+  ]
+}

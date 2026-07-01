@@ -1,0 +1,63 @@
+{
+  "course": "CCC",
+  "chapter": "Introduction to Operating System",
+  "summary": "Introduction to operating systems, desktop and mobile OS concepts, user interface components, system settings, file management, printing, and file extensions.",
+  "topics": [
+    {
+      "topic": "Basics of Operating System",
+      "notes": "An operating system is system software that manages computer hardware, software resources, memory, files, processes, and provides services to applications."
+    },
+    {
+      "topic": "Operating Systems for Desktop and Laptop",
+      "notes": "Desktop operating systems such as Windows, Linux, and macOS provide a graphical interface and manage hardware and software resources."
+    },
+    {
+      "topic": "Operating Systems for Mobile Phone and Tablets",
+      "notes": "Mobile operating systems such as Android and iOS are designed for smartphones and tablets, supporting touch interfaces and mobile applications."
+    },
+    {
+      "topic": "User Interface for Desktop and Laptop",
+      "notes": "The graphical environment through which users interact with the operating system using windows, icons, menus, and pointers."
+    },
+    {
+      "topic": "Task Bar",
+      "notes": "A desktop component used to access running applications, system notifications, the Start menu, and frequently used programs."
+    },
+    {
+      "topic": "Icons and Shortcuts",
+      "notes": "Graphical representations of files, folders, applications, and commands that provide quick access to resources."
+    },
+    {
+      "topic": "Running an Application",
+      "notes": "Methods of launching and managing software applications through shortcuts, menus, search tools, or file associations."
+    },
+    {
+      "topic": "Using Mouse and Changing its Properties",
+      "notes": "Basic mouse operations and configuration settings such as pointer speed, button functions, and accessibility options."
+    },
+    {
+      "topic": "Changing System Date and Time",
+      "notes": "Managing date, time, timezone, and clock synchronization settings within the operating system."
+    },
+    {
+      "topic": "Changing Display Properties",
+      "notes": "Configuring screen resolution, brightness, scaling, wallpaper, themes, and display orientation."
+    },
+    {
+      "topic": "Adding or Removing Programs and Features",
+      "notes": "Installing, updating, modifying, and uninstalling software applications and operating system components."
+    },
+    {
+      "topic": "Adding, Removing and Sharing Printers",
+      "notes": "Managing local and network printers, printer settings, and printer sharing capabilities."
+    },
+    {
+      "topic": "File and Folder Management",
+      "notes": "Creating, organizing, renaming, copying, moving, deleting, and searching files and folders using file management tools."
+    },
+    {
+      "topic": "Types of File Extensions",
+      "notes": "Understanding common file extensions such as .txt, .docx, .pdf, .xlsx, .jpg, .png, .exe, and their associated applications."
+    }
+  ]
+}

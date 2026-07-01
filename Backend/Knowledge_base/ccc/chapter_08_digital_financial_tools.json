@@ -1,0 +1,51 @@
+{
+  "course": "CCC",
+  "chapter": "Digital Financial Tools and Applications",
+  "summary": "Introduction to digital financial tools including OTP, QR codes, UPI, AEPS, USSD, cards, eWallet, Point of Sale, internet banking services such as NEFT, RTGS, IMPS, and online bill payment.",
+  "topics": [
+    {
+      "topic": "Understanding OTP (One Time Password) and QR (Quick Response) Code",
+      "notes": "OTP is a single-use password sent via SMS or email to authenticate digital transactions, valid for a short time. QR Code is a two-dimensional barcode that stores information such as payment links, website URLs, or contact details, scannable by a smartphone camera."
+    },
+    {
+      "topic": "UPI (Unified Payment Interface)",
+      "notes": "UPI is a real-time payment system developed by NPCI (National Payments Corporation of India) that enables instant money transfers between bank accounts using a Virtual Payment Address (VPA), mobile number, or QR code via apps like BHIM, PhonePe, and Google Pay."
+    },
+    {
+      "topic": "AEPS (Aadhaar Enabled Payment System)",
+      "notes": "AEPS allows customers to perform basic banking transactions such as cash withdrawal, balance enquiry, and fund transfer using their Aadhaar number and biometric authentication at micro-ATMs, enabling financial inclusion in rural areas."
+    },
+    {
+      "topic": "USSD (Unstructured Supplementary Service Data)",
+      "notes": "USSD-based mobile banking (*99#) allows users to access financial services without internet connectivity by dialing a short code on any mobile phone, enabling fund transfers, balance enquiry, and mini statements."
+    },
+    {
+      "topic": "Card (Credit / Debit)",
+      "notes": "Debit cards allow users to spend money directly from their bank account, while Credit cards allow users to borrow money up to a set credit limit and repay later. Both are used for online and offline transactions at POS terminals and ATMs."
+    },
+    {
+      "topic": "eWallet",
+      "notes": "An eWallet (digital wallet) is a virtual wallet that stores money digitally for making cashless payments. Examples include Paytm, PhonePe, Amazon Pay, and Mobikwik. Wallets can be loaded using debit/credit cards or net banking."
+    },
+    {
+      "topic": "PoS (Point of Sale)",
+      "notes": "A Point of Sale terminal is an electronic device used by merchants to accept card payments. It reads card information via swipe, dip (chip), or tap (contactless NFC), and processes the transaction securely."
+    },
+    {
+      "topic": "National Electronic Fund Transfer (NEFT)",
+      "notes": "NEFT is an RBI-operated electronic fund transfer system that enables individuals and businesses to transfer money between bank accounts in India. Transactions are processed in half-hourly batches and are available 24x7."
+    },
+    {
+      "topic": "Real Time Gross Settlement (RTGS)",
+      "notes": "RTGS is used for large-value, time-critical fund transfers that are settled in real time on a gross (individual transaction) basis. It is available 24x7 and is ideal for transactions above ₹2 lakh."
+    },
+    {
+      "topic": "Immediate Payment Service (IMPS)",
+      "notes": "IMPS is an instant interbank electronic fund transfer service available 24x7x365 including holidays. It allows transfers using mobile number and MMID, or account number and IFSC code, with no minimum transfer limit."
+    },
+    {
+      "topic": "Online Bill Payment",
+      "notes": "Online bill payment allows users to pay utility bills (electricity, water, gas), mobile recharges, insurance premiums, and other dues through banking apps, payment portals, or government platforms like BBPS (Bharat Bill Payment System)."
+    }
+  ]
+}

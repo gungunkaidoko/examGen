@@ -1,0 +1,131 @@
+{
+  "course": "CCC",
+  "chapter": "Word Processing",
+  "summary": "Introduction to word processing concepts, working with LibreOffice Writer, document creation and management, text editing and formatting, table manipulation, mail merge, and shortcut keys.",
+  "topics": [
+    {
+      "topic": "Opening Word Processing Package",
+      "notes": "Steps to launch a word processing application such as LibreOffice Writer, including accessing it through the Start menu, desktop shortcut, or application launcher."
+    },
+    {
+      "topic": "Title Bar, Menu Bar, Toolbars and Sidebar",
+      "notes": "Key interface components of a word processor: the Title Bar displays the document name, the Menu Bar provides access to all commands, Toolbars offer quick-access buttons, and the Sidebar provides additional formatting and navigation options."
+    },
+    {
+      "topic": "Creating a New Document",
+      "notes": "Methods to create a new blank document or use templates in a word processing application, including using the File menu or keyboard shortcut Ctrl+N."
+    },
+    {
+      "topic": "Opening Documents",
+      "notes": "Opening existing documents from local storage or recent files list using the File menu or the Ctrl+O keyboard shortcut."
+    },
+    {
+      "topic": "Save and Save As",
+      "notes": "Saving a document using Save (Ctrl+S) to overwrite the existing file, or Save As (Ctrl+Shift+S) to save with a new name, location, or file format."
+    },
+    {
+      "topic": "Closing Document",
+      "notes": "Properly closing an open document using the File menu or Ctrl+W, with a prompt to save unsaved changes before closing."
+    },
+    {
+      "topic": "Using The Help",
+      "notes": "Accessing the built-in Help feature (F1) in a word processor to find guidance on commands, features, and troubleshooting."
+    },
+    {
+      "topic": "Page Setup",
+      "notes": "Configuring document layout settings such as paper size, orientation (portrait or landscape), margins, and page borders through the Page Setup dialog."
+    },
+    {
+      "topic": "Print Preview",
+      "notes": "Viewing a document as it will appear when printed, allowing review of layout, margins, and formatting before printing."
+    },
+    {
+      "topic": "Printing of Documents",
+      "notes": "Sending a document to a printer, with options to select the printer, number of copies, page range, and print quality."
+    },
+    {
+      "topic": "PDF file and Saving a Document as PDF file",
+      "notes": "Understanding the PDF format and exporting or saving a word processing document as a PDF file using the Export as PDF option for universal readability."
+    },
+    {
+      "topic": "Document Creation",
+      "notes": "Typing and entering content in a word processing document, including text, numbers, symbols, and special characters."
+    },
+    {
+      "topic": "Editing Text",
+      "notes": "Modifying existing content in a document by inserting, deleting, overwriting, and replacing text."
+    },
+    {
+      "topic": "Text Selection",
+      "notes": "Techniques to select text using the mouse or keyboard, including selecting a word, line, paragraph, or the entire document using Ctrl+A."
+    },
+    {
+      "topic": "Cut, Copy and Paste",
+      "notes": "Moving (Cut: Ctrl+X) or duplicating (Copy: Ctrl+C) selected text and placing it at a new location (Paste: Ctrl+V) within the same or different document."
+    },
+    {
+      "topic": "Font, Color, Style and Size Selection",
+      "notes": "Changing the appearance of text by selecting font type, font size, font color, and applying styles such as Bold (Ctrl+B), Italic (Ctrl+I), and Underline (Ctrl+U)."
+    },
+    {
+      "topic": "Alignment of Text",
+      "notes": "Positioning text horizontally on a page: Left (Ctrl+L), Center (Ctrl+E), Right (Ctrl+R), or Justify (Ctrl+J) alignment."
+    },
+    {
+      "topic": "Undo and Redo",
+      "notes": "Reversing the last action using Undo (Ctrl+Z) and reapplying it using Redo (Ctrl+Y) to manage editing mistakes efficiently."
+    },
+    {
+      "topic": "AutoCorrect, Spelling and Grammar",
+      "notes": "Automatic correction of common typing errors using AutoCorrect, and checking documents for spelling and grammar mistakes using the built-in checker (F7)."
+    },
+    {
+      "topic": "Find and Replace",
+      "notes": "Locating specific text in a document using Find (Ctrl+F) and substituting it with different text using Replace (Ctrl+H)."
+    },
+    {
+      "topic": "Paragraph Indentation",
+      "notes": "Adjusting the left and right indentation of paragraphs to structure document content, using the ruler or paragraph formatting dialog."
+    },
+    {
+      "topic": "Bullets and Numbering",
+      "notes": "Applying bullet points or numbered lists to items for organized presentation of information in a document."
+    },
+    {
+      "topic": "Change Case",
+      "notes": "Converting selected text between uppercase, lowercase, title case, and sentence case using the Change Case formatting option."
+    },
+    {
+      "topic": "Header and Footer",
+      "notes": "Adding repeating content at the top (Header) and bottom (Footer) of each page, such as page numbers, document title, date, or author name."
+    },
+    {
+      "topic": "Insert and Draw Table",
+      "notes": "Inserting a table with a specified number of rows and columns, or drawing a custom table, to organize data within a document."
+    },
+    {
+      "topic": "Changing Cell Width and Height",
+      "notes": "Resizing table rows and columns by dragging cell borders or using the table properties dialog to set precise dimensions."
+    },
+    {
+      "topic": "Alignment of Text in Cell",
+      "notes": "Setting the horizontal and vertical alignment of content within table cells for proper presentation of tabular data."
+    },
+    {
+      "topic": "Delete and Insertion of Row, Column and Merging and Splitting of Cells",
+      "notes": "Modifying table structure by adding or removing rows and columns, and combining multiple cells (Merge) or dividing a cell into smaller cells (Split)."
+    },
+    {
+      "topic": "Border and Shading",                                                                                              
+      "notes": "Applying borders of different styles and colors to table cells or paragraphs, and adding background shading to enhance visual presentation."
+    },
+    {
+      "topic": "Mail Merge",
+      "notes": "A feature that automates the creation of personalized documents (letters, labels, envelopes) by combining a main document template with a data source containing recipient information."
+    },
+    {
+      "topic": "Shortcut Keys",
+      "notes": "Commonly used keyboard shortcuts in word processing: Ctrl+N (New), Ctrl+O (Open), Ctrl+S (Save), Ctrl+P (Print), Ctrl+Z (Undo), Ctrl+Y (Redo), Ctrl+X (Cut), Ctrl+C (Copy), Ctrl+V (Paste), Ctrl+A (Select All), Ctrl+F (Find), Ctrl+H (Replace), Ctrl+B (Bold), Ctrl+I (Italic), Ctrl+U (Underline), F7 (Spell Check)."
+    }
+  ]
+}

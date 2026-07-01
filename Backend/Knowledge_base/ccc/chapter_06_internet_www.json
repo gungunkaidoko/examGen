@@ -1,0 +1,75 @@
+{
+  "course": "CCC",
+  "chapter": "Introduction to Internet and WWW",
+  "summary": "Introduction to computer networks, internet concepts, WWW, web browsers, IP addressing, ISP, modes of connecting to the internet, and exploring the web including searching, downloading, and printing web pages.",
+  "topics": [
+    {
+      "topic": "Local Area Network (LAN)",
+      "notes": "A Local Area Network connects computers and devices within a limited geographic area such as a home, office, or campus, enabling resource sharing and communication at high speeds."
+    },
+    {
+      "topic": "Wide Area Network (WAN)",
+      "notes": "A Wide Area Network spans large geographic areas, connecting multiple LANs across cities, countries, or continents. The Internet is the largest example of a WAN."
+    },
+    {
+      "topic": "Network Topology",
+      "notes": "Network topology describes the physical or logical arrangement of nodes in a network. Common types include Bus, Star, Ring, Mesh, and Hybrid topologies."
+    },
+    {
+      "topic": "Concept of Internet and WWW",
+      "notes": "The Internet is a global network of interconnected computers. The World Wide Web (WWW) is a system of interlinked hypertext documents and resources accessed via the Internet using a web browser."
+    },
+    {
+      "topic": "Applications of Internet",
+      "notes": "The Internet supports a wide range of applications including email, web browsing, social networking, online banking, e-commerce, video streaming, cloud services, and e-governance."
+    },
+    {
+      "topic": "Website Address and URL",
+      "notes": "A URL (Uniform Resource Locator) is the web address used to access a resource on the Internet. It consists of a protocol (http/https), domain name, and optional path (e.g., https://www.example.com/page)."
+    },
+    {
+      "topic": "Introduction to IP Address",
+      "notes": "An IP (Internet Protocol) address is a unique numerical label assigned to each device on a network. IPv4 uses a 32-bit address (e.g., 192.168.1.1) and IPv6 uses a 128-bit address for greater capacity."
+    },
+    {
+      "topic": "ISP and Role of ISP",
+      "notes": "An Internet Service Provider (ISP) is a company that provides access to the Internet. ISPs offer connectivity through broadband, fiber, mobile data, or dial-up connections and manage data routing."
+    },
+    {
+      "topic": "Internet Protocol",
+      "notes": "Internet Protocol (IP) defines the rules for addressing and routing data packets across networks. It works alongside TCP (Transmission Control Protocol) to ensure reliable data delivery."
+    },
+    {
+      "topic": "Modes of Connecting Internet (Hotspot, Wi-Fi, LAN Cable, Broadband, USB Tethering)",
+      "notes": "Devices can connect to the Internet through various modes: Wi-Fi (wireless), LAN cable (wired Ethernet), Mobile Hotspot (sharing mobile data), Broadband (high-speed DSL/fiber), and USB Tethering (sharing connection via USB cable)."
+    },
+    {
+      "topic": "Identifying and Uses of IP/MAC/IMEI of Various Devices",
+      "notes": "IP address identifies a device on a network; MAC (Media Access Control) address is a unique hardware identifier for a network interface card; IMEI (International Mobile Equipment Identity) uniquely identifies a mobile device globally."
+    },
+    {
+      "topic": "Popular Web Browsers",
+      "notes": "Web browsers are applications used to access and display web pages. Popular browsers include Internet Explorer, Microsoft Edge, Google Chrome, Mozilla Firefox, and Opera, each offering features like tabs, bookmarks, and extensions."
+    },
+    {
+      "topic": "Surfing the Web",
+      "notes": "Navigating the Internet by entering URLs in the browser address bar, clicking hyperlinks, using back/forward buttons, and bookmarking favourite pages for later access."
+    },
+    {
+      "topic": "Popular Search Engines",
+      "notes": "Search engines index web content and allow users to find information by entering keywords. Popular search engines include Google, Bing, Yahoo, and DuckDuckGo."
+    },
+    {
+      "topic": "Searching on Internet",
+      "notes": "Using search engines effectively by entering relevant keywords, using advanced search operators (quotes, site:, filetype:), and evaluating search results for credibility."
+    },
+    {
+      "topic": "Downloading Web Pages",
+      "notes": "Saving web page content (text, images, files) to local storage using the browser's Save Page option or by right-clicking and downloading specific elements."
+    },
+    {
+      "topic": "Printing Web Pages",
+      "notes": "Printing the content of a web page using the browser's Print option (Ctrl+P), with settings to select printer, page range, orientation, and print preview."
+    }
+  ]
+}
