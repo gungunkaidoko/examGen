@@ -155,6 +155,28 @@ export default function GenerateModal({ onClose, onSuccess }) {
               )}
             </div>
 
+            {/* ── Notice banner while active ── */}
+            {isActive && (
+              <div className="flex items-start gap-3 px-4 py-3 bg-amber-50 border border-amber-200 rounded-lg">
+                <span className="text-lg mt-0.5">⏳</span>
+                <div>
+                  <p className="text-sm font-semibold text-amber-800">
+                    Generation takes 10–15 minutes per set.
+                  </p>
+                  <p className="text-xs text-amber-700 mt-0.5">
+                    You can{" "}
+                    <button
+                      onClick={onClose}
+                      className="underline font-medium hover:text-amber-900 transition-colors"
+                    >
+                      close this and browse existing sets
+                    </button>
+                    {" "}while the pipeline runs in the background.
+                  </p>
+                </div>
+              </div>
+            )}
+
             {/* Live log terminal */}
             <div className="rounded-lg border border-slate-700 bg-slate-900 overflow-hidden">
               {/* Terminal title bar */}
